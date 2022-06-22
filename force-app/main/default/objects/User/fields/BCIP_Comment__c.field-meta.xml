@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>BCIP_Comment__c</fullName>
     <externalId>false</externalId>
-    <label>Comentarios</label>
+    <label>Observaciones</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>TextArea</type>
